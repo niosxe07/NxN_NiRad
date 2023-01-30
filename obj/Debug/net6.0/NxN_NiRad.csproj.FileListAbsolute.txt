@@ -1,0 +1,15 @@
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\obj\Debug\net6.0\NxN_NiRad.csproj.AssemblyReference.cache
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\obj\Debug\net6.0\NxN_NiRad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\obj\Debug\net6.0\NxN_NiRad.AssemblyInfoInputs.cache
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\obj\Debug\net6.0\NxN_NiRad.AssemblyInfo.cs
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\obj\Debug\net6.0\NxN_NiRad.csproj.CoreCompileInputs.cache
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\bin\Debug\net6.0\NxN_NiRad.exe
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\bin\Debug\net6.0\NxN_NiRad.deps.json
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\bin\Debug\net6.0\NxN_NiRad.runtimeconfig.json
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\bin\Debug\net6.0\NxN_NiRad.dll
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\bin\Debug\net6.0\NxN_NiRad.pdb
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\obj\Debug\net6.0\NxN_NiRad.dll
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\obj\Debug\net6.0\refint\NxN_NiRad.dll
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\obj\Debug\net6.0\NxN_NiRad.pdb
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\obj\Debug\net6.0\NxN_NiRad.genruntimeconfig.cache
+C:\Users\Ihsan Hossain\all vscode\c#code\NxN_NiRad\obj\Debug\net6.0\ref\NxN_NiRad.dll
